@@ -1,0 +1,15 @@
+.venv
+.venv/
+venv/
+env/
+.env
+app.py
+app2.py
+config.yaml
+.vscode
+db.sql
+passwordHasher.py
+*.db
+*.sqlite
+*.sqlite3
+pyvenv.cfg
